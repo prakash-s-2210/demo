@@ -1,3 +1,4 @@
+# Movie rating app using Redux toolkit
 The movie rating application is designed to provide users with a platform to search, browse, and rate their favorite movies and TV shows. The application features a user-friendly interface that is intuitive and easy to navigate. With the power of React, Redux Toolkit, and Axios, the application delivers a fast and responsive browsing experience.
 One of the standout features of the application is the search filter that has been built using Middleware Thunk in redux toolkit. This feature allows users to search for different movies or TV shows with ease and provides accurate results in real-time.
 Another exciting feature is the Movie Card Slider or Carousel component that allows users to browse through movies and TV shows in a visually appealing and interactive way. The carousel is fully responsive and adapts to different screen sizes, ensuring that users can enjoy their browsing experience on any device.
