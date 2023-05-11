@@ -3,3 +3,4 @@ The movie rating application is designed to provide users with a platform to sea
 One of the standout features of the application is the search filter that has been built using Middleware Thunk in redux toolkit. This feature allows users to search for different movies or TV shows with ease and provides accurate results in real-time.
 Another exciting feature is the Movie Card Slider or Carousel component that allows users to browse through movies and TV shows in a visually appealing and interactive way. The carousel is fully responsive and adapts to different screen sizes, ensuring that users can enjoy their browsing experience on any device.
 The movie rating application is an excellent platform for movie enthusiasts looking for a personalized movie browsing and rating experience. The application offers a range of exciting features that are easy to use and deliver an exceptional browsing experience.
+ 
